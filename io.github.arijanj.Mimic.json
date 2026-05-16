@@ -30,8 +30,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ArijanJ/mimic",
-                    "tag": "v1.1.1",
-                    "commit": "1387cc999349809d539673514e739a073f162adf"
+                    "tag": "v1.1.2",
+                    "commit": "34fd59729b4c08d11056aa531f64dc5e78c1d249"
                 }
             ]
         }
