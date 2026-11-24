@@ -13,6 +13,7 @@
         "--filesystem=~/.local/share/applications:ro",
         "--filesystem=~/.local/share/icons:ro",
         "--filesystem=~/.local/share/flatpak/exports/share/applications:ro",
+        "--filesystem=~/.local/share/flatpak/app:ro",
         "--filesystem=/var/lib/flatpak/app:ro",
         "--filesystem=/var/lib/flatpak/exports/share/applications:ro",
         "--filesystem=/var/lib/flatpak/exports/share/icons:ro",
@@ -30,8 +31,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ArijanJ/mimic",
-                    "tag": "v1.1.4",
-                    "commit": "0b1df45569913fb30e609e775b33db4f8fac23d6"
+                    "tag": "v1.1.5",
+                    "commit": "2b1550807843d32d28cc14b5f2179b03d0346633"
                 }
             ]
         }
